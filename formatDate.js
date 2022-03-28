@@ -88,4 +88,3 @@ console.log(formatDate(new Date(), "hh:mm:s"))
 console.log(formatDate(new Date(), "hh:mm:s/fff"))
 console.log(formatDate(new Date(), "hh:mm:s TT"))
 console.log(formatDate(new Date(), "hh:mm:s tt"))
-
